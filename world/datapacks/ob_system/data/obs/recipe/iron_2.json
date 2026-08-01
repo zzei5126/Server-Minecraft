@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "category": "building",
+  "ingredient": "minecraft:gravel",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

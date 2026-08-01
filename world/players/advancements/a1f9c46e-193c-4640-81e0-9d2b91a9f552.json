@@ -1,0 +1,1809 @@
+{
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_gray_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_helmet_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_gray_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_lantern": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creaking_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/root": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chest": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_nautilus_armor_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_torch": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_purple_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/resin_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_chain_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_wither_rose": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lime_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_chestplate_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tipped_arrow": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/mob_drops": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:technical/root": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/field_masoned_banner_pattern": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_boots_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_nuggets": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_cyan_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_golem_statue_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/gate": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/golden_dandelion": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_chain_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_blue_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_lime_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chain_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/biomes": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/visitor": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magenta_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:ob/root": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_horse_armor_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/green_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_clump": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wolf_armor_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/trader": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor_dyed": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/phantoms": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/name_tag": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_chain": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/end": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_green_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_golem_statue_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/recipes": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_golem_statue_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/purple_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/piglins": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/spawns": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_orange_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_golem_statue_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_brown_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gray_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "obs:tips/command": {
+    "criteria": {
+      "requirement": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_chain_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cyan_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_shelf": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_the_recipe": "2026-03-25 21:50:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_slab_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_stairs_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_cinnabar_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_cinnabar": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_cinnabar_wall_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_slab_from_cinnabar_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_bricks_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_stairs_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_stairs_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_slab_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_slab_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_brick_wall_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_cinnabar_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/potent_sulfur": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_stairs_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sulfur": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_slab_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_bricks_from_polished_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_stairs_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_wall_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_bricks_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_brick_wall_from_sulfur_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_bricks_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_wall_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_stairs_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_brick_wall_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_slab_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_brick_wall_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_slab_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_sulfur_wall_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_slab_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-06-16 16:20:43 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_sulfur_wall_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sulfur_brick_wall_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_slab_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cinnabar_slab_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_stairs_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_stairs_from_sulfur_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_sulfur_stairs_from_polished_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_from_sulfur_spikes": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_cinnabar_wall_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_slab_from_sulfur_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cinnabar_brick_wall_from_cinnabar_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_stairs_from_cinnabar_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_stairs_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sulfur_brick_stairs_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_sulfur_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cinnabar_brick_slab_from_cinnabar_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sulfur_from_sulfur_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-06-16 16:20:43 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 4903
+}

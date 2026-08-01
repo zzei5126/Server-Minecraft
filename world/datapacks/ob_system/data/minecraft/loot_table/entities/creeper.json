@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 0.0,
+                "max": 1.0
+              },
+              "enchantment": "minecraft:looting",
+              "function": "minecraft:enchanted_count_increase",
+              "add": false
+            }
+          ],
+          "name": "minecraft:gunpowder"
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "attacker",
+          "predicate": {
+            "minecraft:entity_type": "#minecraft:skeletons"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "expand": true,
+          "name": "minecraft:creeper_drop_music_discs"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "attacker",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:piglin"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_pigstep"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "direct_attacker",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:sulfur_cube"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_bounce"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:entities/creeper"
+}
