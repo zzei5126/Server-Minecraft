@@ -9445,6 +9445,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2026-08-04 20:11:12 +0700",
+      "minecraft:savanna": "2026-08-04 21:06:36 +0700",
       "minecraft:plains": "2026-08-01 22:28:50 +0700"
     },
     "done": false
@@ -9601,7 +9603,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2026-08-04 22:39:04 +0700",
+      "bread": "2026-08-04 21:18:05 +0700",
+      "cooked_chicken": "2026-08-04 22:26:48 +0700",
+      "rotten_flesh": "2026-08-04 22:55:27 +0700",
       "cooked_mutton": "2026-08-02 23:25:53 +0700",
+      "cooked_beef": "2026-08-04 19:37:29 +0700",
       "carrot": "2026-08-01 23:31:31 +0700"
     },
     "done": false
@@ -9808,6 +9815,42 @@
   "obs:phases/phase_8": {
     "criteria": {
       "requirement": "2026-08-03 00:33:41 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_5": {
+    "criteria": {
+      "requirement": "2026-08-04 20:41:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-08-04 21:30:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-08-04 21:49:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-08-04 22:54:32 +0700"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-08-04 22:54:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-08-04 22:54:31 +0700"
     },
     "done": true
   },

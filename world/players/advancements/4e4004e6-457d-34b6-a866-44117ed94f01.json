@@ -9592,6 +9592,10 @@
       "bread": "2026-08-02 22:55:19 +0700",
       "cooked_chicken": "2026-08-03 00:10:49 +0700",
       "cooked_mutton": "2026-08-03 00:04:36 +0700",
+      "cooked_beef": "2026-08-04 22:18:03 +0700",
+      "cod": "2026-08-04 21:36:54 +0700",
+      "baked_potato": "2026-08-04 22:31:48 +0700",
+      "melon_slice": "2026-08-04 22:45:08 +0700",
       "carrot": "2026-08-01 23:31:27 +0700"
     },
     "done": false
@@ -9767,15 +9771,9 @@
     },
     "done": false
   },
-  "minecraft:husbandry/fishy_business": {
+  "obs:phases/dirt_5": {
     "criteria": {
-      "cod": "2026-08-03 00:23:47 +0700"
-    },
-    "done": true
-  },
-  "obs:ob/obsidian": {
-    "criteria": {
-      "requirement": "2026-08-03 00:11:19 +0700"
+      "requirement": "2026-08-02 23:25:05 +0700"
     },
     "done": true
   },
@@ -9785,9 +9783,27 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-08-02 23:56:36 +0700"
+    },
+    "done": true
+  },
+  "obs:ob/obsidian": {
+    "criteria": {
+      "requirement": "2026-08-03 00:11:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2026-08-03 00:11:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2026-08-03 00:23:47 +0700"
     },
     "done": true
   },
@@ -9797,15 +9813,21 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "crafting_table": "2026-08-02 23:56:36 +0700"
+      "ancient_debris": "2026-08-04 22:52:31 +0700"
     },
     "done": true
   },
-  "obs:phases/dirt_5": {
+  "obs:ob/glistening": {
     "criteria": {
-      "requirement": "2026-08-02 23:25:05 +0700"
+      "requirement": "2026-08-04 22:53:01 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_6": {
+    "criteria": {
+      "requirement": "2026-08-04 22:59:21 +0700"
     },
     "done": true
   },
