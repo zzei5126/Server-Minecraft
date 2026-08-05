@@ -9836,12 +9836,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2026-08-04 22:54:32 +0700"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-08-04 22:54:31 +0700"
@@ -9851,6 +9845,42 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-08-04 22:54:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-08-04 22:54:32 +0700"
+    },
+    "done": false
+  },
+  "obs:ob/farmer": {
+    "criteria": {
+      "carrot": "2026-08-05 20:30:35 +0700"
+    },
+    "done": false
+  },
+  "obs:ap/root": {
+    "criteria": {
+      "requirement": "2026-08-05 21:32:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2026-08-05 21:12:13 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "requirement": "2026-08-05 21:32:52 +0700"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_6": {
+    "criteria": {
+      "requirement": "2026-08-05 21:06:55 +0700"
     },
     "done": true
   },
